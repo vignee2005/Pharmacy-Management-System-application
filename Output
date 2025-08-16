@@ -1,0 +1,100 @@
+Pharmacy Management System 
+1. Add Medication 
+2. Search Medication 
+3. Update Medication Quantity 
+4. Delete Medication 
+5. Display All Medications 
+0. Exit 
+Enter your choice: 1 
+Enter medication ID: 90 
+Enter medication name: sareda 
+Enter medication price: 200 
+Enter medication quantity: 18 
+Pharmacy Management System 
+1. Add Medication 
+2. Search Medication 
+3. Update Medication Quantity 
+4. Delete Medication 
+5. Display All Medications 
+0. Exit 
+Enter your choice: 2 
+Enter medication ID to search: 90 
+- 8 -  
+Medication ID: 90 
+Medication Name: sareda 
+Medication Price: 200.00 
+Medication Quantity: 18 
+Pharmacy Management System 
+1. Add Medication 
+2. Search Medication 
+3. Update Medication Quantity 
+4. Delete Medication 
+5. Display All Medications 
+0. Exit 
+Enter your choice: 3 
+Enter medication ID to update quantity: 40 
+Enter new quantity: 30 
+Medication not found. 
+Pharmacy Management System 
+1. Add Medication 
+2. Search Medication 
+3. Update Medication Quantity 
+4. Delete Medication 
+5. Display All Medications 
+0. Exit 
+Enter your choice: 3 
+Enter medication ID to update quantity: 18 
+Enter new quantity: 20 
+Medication not found. 
+Pharmacy Management System 
+1. Add Medication 
+2. Search Medication 
+3. Update Medication Quantity 
+4. Delete Medication 
+5. Display All Medications 
+0. Exit 
+Enter your choice: 4 
+Enter medication ID to delete: 90 
+Medication deleted successfully. 
+Pharmacy Management System 
+1. Add Medication 
+2. Search Medication 
+3. Update Medication Quantity 
+4. Delete Medication 
+5. Display All Medications 
+0. Exit 
+Enter your choice: 5 
+Pharmacy Management System 
+1. Add Medication 
+2. Search Medication 
+3. Update Medication Quantity 
+4. Delete Medication 
+5. Display All Medications 
+0. Exit 
+- 9 -  
+Enter your choice: 1 
+Enter medication ID: 116 
+Enter medication name: paratusamal 
+Enter medication price: 10 
+Enter medication quantity: 8 
+Pharmacy Management System 
+1. Add Medication 
+2. Search Medication 
+3. Update Medication Quantity 
+4. Delete Medication 
+5. Display All Medications 
+0. Exit 
+Enter your choice: 5 
+Medication ID: 116 
+Medication Name: paratusamal 
+Medication Price: 10.00 
+Medication Quantity: 8 -------------------- 
+Pharmacy Management System 
+1. Add Medication 
+2. Search Medication 
+3. Update Medication Quantity 
+4. Delete Medication 
+5. Display All Medications 
+0. Exit 
+Enter your choice: 0 
+Exiting...
